@@ -1,6 +1,6 @@
 ## Product Requirements Document
 
-### Product Name: JASI 
+### Product Name: JASI: Job Alignment Scoring and Improvement
 
 ### Overview
 
